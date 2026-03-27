@@ -1,5 +1,3 @@
-# picoCTF2026-writeups
-
 ## プロフィール
 アカウント名：toto1010orange
 チーム名：totoalone
